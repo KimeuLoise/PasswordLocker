@@ -27,7 +27,7 @@ As a user I would like:
 
 ## SetUp / Installation Requirements
 ### Prerequisites
-* python2.7
+* python 3.6
 * pip
 * pyperclip
 * xclip
@@ -46,7 +46,7 @@ As a user I would like:
         $ python3.6 user_credentials_test.py
 
 ## Technologies Used
-* Python2.7
+* Python 3.6
 
 ## License
 
